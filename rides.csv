@@ -1,0 +1,16 @@
+ride_id,visitor_id,ride_name,times_ridden
+301,1,space_mountain,2
+302,2,amazing_spider_ride,5
+303,1,haunted_mansion,1
+304,3,frozen_ever_after,3
+305,2,pirate_ship_adventure,1
+306,4,bat_coaster,2
+307,5,lasso_of_truth,2
+308,3,snow_cone_expedition,1
+309,1,star_tours,1
+310,4,gotham_escape,1
+311,2,web_slingers,4
+312,5,amazon_river_rush,1
+313,3,elsa_palace_tour,2
+314,4,cave_explorers,1
+315,5,themyscira_flight,3
